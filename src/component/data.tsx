@@ -1,52 +1,52 @@
 export const PeopleData = [
     {
       name: "Ari Pratama",
-      image: "https://i.pinimg.com/564x/15/23/5e/15235e91e5ff519c691b6c8c1f456b6e.jpg",
+      imfollowers: "https://i.pinimg.com/564x/15/23/5e/15235e91e5ff519c691b6c8c1f456b6e.jpg",
       quote: "Stay positive",
     },
     {
       name: "Bella Anggara",
-      image: "https://i.pinimg.com/564x/c4/f8/fd/c4f8fd7fc6d7c764af07f6b3b285bde4.jpg",
+      imfollowers: "https://i.pinimg.com/564x/c4/f8/fd/c4f8fd7fc6d7c764af07f6b3b285bde4.jpg",
       quote: "Keep going",
     },
     {
       name: "Chika Andini",
-      image: "https://i.pinimg.com/564x/61/26/7a/61267aa2a94607ff4ff2d965e4b617f5.jpg",
+      imfollowers: "https://i.pinimg.com/564x/61/26/7a/61267aa2a94607ff4ff2d965e4b617f5.jpg",
       quote: "Dream big",
     },
     {
       name: "Dika Putra",
-      image: "https://i.pinimg.com/564x/d9/20/cf/d920cf567b1b7611fb3f0a7b1011bcb2.jpg",
+      imfollowers: "https://i.pinimg.com/564x/d9/20/cf/d920cf567b1b7611fb3f0a7b1011bcb2.jpg",
       quote: "Enjoy life",
     },
     {
       name: "Eka Rizky",
-      image: "https://i.pinimg.com/564x/d3/1d/99/d31d993f4772a5fa1575e6d2f946d005.jpg",
+      imfollowers: "https://i.pinimg.com/564x/d3/1d/99/d31d993f4772a5fa1575e6d2f946d005.jpg",
       quote: "Be kind",
     },
     {
       name: "Fajar Hartono",
-      image: "https://i.pinimg.com/564x/1e/1d/5e/1e1d5e283fa4d9232a74ec8f6f4a6c4f.jpg",
+      imfollowers: "https://i.pinimg.com/564x/1e/1d/5e/1e1d5e283fa4d9232a74ec8f6f4a6c4f.jpg",
       quote: "Stay humble",
     },
     {
       name: "Gita Ayu",
-      image: "https://i.pinimg.com/564x/2d/35/c7/2d35c775d589658d58e8be09a57e8b2c.jpg",
+      imfollowers: "https://i.pinimg.com/564x/2d/35/c7/2d35c775d589658d58e8be09a57e8b2c.jpg",
       quote: "Keep smiling",
     },
     {
       name: "Hana Cahya",
-      image: "https://i.pinimg.com/564x/22/89/6e/22896eb7a2f6b4049b00b907e38f75d6.jpg",
+      imfollowers: "https://i.pinimg.com/564x/22/89/6e/22896eb7a2f6b4049b00b907e38f75d6.jpg",
       quote: "Love more",
     },
     {
       name: "Irfan Mulya",
-      image: "https://i.pinimg.com/564x/68/60/83/686083e3f2bb6068c1436de4b04a276e.jpg",
+      imfollowers: "https://i.pinimg.com/564x/68/60/83/686083e3f2bb6068c1436de4b04a276e.jpg",
       quote: "Stay strong",
     },
     {
       name: "Joko Widodo",
-      image: "https://i.pinimg.com/564x/cd/ea/4c/cdea4cc68279f8b8c3249b9d6b709aad.jpg",
+      imfollowers: "https://i.pinimg.com/564x/cd/ea/4c/cdea4cc68279f8b8c3249b9d6b709aad.jpg",
       quote: "Chase dreams",
     },
     {
@@ -74,5 +74,16 @@ export const PeopleData = [
       image: "https://i.pinimg.com/564x/45/69/71/456971af03c50262737e3e88d27e2a94.jpg",
       quote: "Keep learning",
     },
+  ];
+  export const Channel = [
+    { name: "John Doe", nickname: "Johnny", followers: 28 },
+    { name: "Jane Smith", nickname: "Janie", followers: 24 },
+    { name: "Michael Johnson", nickname: "Mike", followers: 32 },
+    { name: "Emily Davis", nickname: "Em", followers: 27 },
+    { name: "David Martinez", nickname: "Dave", followers: 30 },
+    { name: "Sarah Wilson", nickname: "Sar", followers: 26 },
+    { name: "Chris Brown", nickname: "Chrisy", followers: 29 },
+    { name: "Anna Taylor", nickname: "Annie", followers: 22 },
+    { name: "James Anderson", nickname: "Jim", followers: 31 }
   ];
   
